@@ -12,10 +12,10 @@ int main()
 
     //F - 1.  Print out to the screen, via your application, the course title, the programming language used, your WGU student ID, and your name.
 
-    cout << "Scripting and Programming - Applications - C867" << endl;
+    cout << "Scripting and Programming - Applications" << endl;
     cout << "Language: C++" << endl;
     cout << "By: Matthew Riney" << endl;
-    cout << "Student ID: 001383787";
+    cout << "Student ID: ";
     cout << endl;
     cout << "\n----------------------------------------------";
     cout << endl << endl;
